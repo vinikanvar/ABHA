@@ -49,5 +49,5 @@ The implementation is based on the following publications
        3) Generalizing the Liveness Based Points-to Analysis. Uday Khedker, Vini Kanvar.
             Points-to analysis restricted to live data to improve efficiency and scalability, while preserving precision.
       
-        4) Which Part of the Heap is Useful? Improving Heap Liveness Analysis. Vini Kanvar, Uday Khedker.
+       4) Which Part of the Heap is Useful? Improving Heap Liveness Analysis. Vini Kanvar, Uday Khedker.
             Using static liveness analysis to understand the actual use of heap memory in a program.
