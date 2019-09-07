@@ -23,8 +23,8 @@ Makefile builds the following source code:
             Access-paths based points-to graph
             Unlabeled edge graph
       
-      ipa: Inter-Procedural Analysis 
-      (Templates based classes to plug in any intra-procedural dfa)
+      ipa: Inter-Procedural Analysis files
+            (Templates based classes to plug in any intra-procedural dfa)
       
             Value contexts
             Interprocedural analysis
